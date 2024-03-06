@@ -1,5 +1,4 @@
 n = [int(input()) for _ in range(2)]
-
 if n[0] == 2 :
     if n[1] < 18:
         print('Before')
